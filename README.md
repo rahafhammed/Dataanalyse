@@ -37,13 +37,19 @@ Hier sind die wichtigsten Erkenntnisse aus der Datenanalyse:
 Diese Zeitreihe zeigt die Entwicklung des Gesamtumsatzes über den Analysezeitraum.
 ![Monatliche Umsatzentwicklung](1خ.png)
 
+Das United Kingdom ist mit Abstand der umsatzstärkste Markt, gefolgt von den Niederlanden und Irland. Dies unterstreicht die Notwendigkeit, Marketingressourcen primär in diesen Regionen zu bündeln.
+
 ### 2. Top 10 Meistverkaufte Produkte
 Die Analyse der meistverkauften Artikel hilft bei der Lagerbestandsplanung.
 ![Top Produkte](24.png)
 
+Artikel wie "Paper Craft, Little Birdie" und "Medium Ceramic Top Storage Jar" sind die absoluten Bestseller. Eine stabile Lieferkette für diese Produkte ist entscheidend für den Unternehmenserfolg.
+
 ### 3. Top 10 Länder nach Umsatz
 Identifikation der profitabelsten Märkte weltweit.
 ![Top Länder](3بي.png)
+
+Die Zeitreihenanalyse zeigt einen massiven Anstieg der Verkaufszahlen im letzten Quartal des Jahres (Oktober bis November), was auf ein starkes Saisongeschäft (z. B. Weihnachtsgeschäft) hindeutet.
 
 ---
 
